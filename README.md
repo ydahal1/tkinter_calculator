@@ -4,13 +4,9 @@
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-
-- Python 3 is installed and running on your system.
+Before you begin, ensure you have Python3 installed your system.
 
 ## Getting Started
-
-To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 
