@@ -11,7 +11,7 @@ Before you begin, ensure you have Python3 installed your system.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/yourcalculator.git
+   git clone https://github.com/ydahal1/yourcalculator.git
 
    ```
 
